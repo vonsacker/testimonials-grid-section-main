@@ -9,9 +9,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Screenshot](#screenshot)
   - [Links](#links) 
   - [Built with](#built-with)
-
-
-
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
@@ -31,8 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://vonsacker.github.io/testimonials-grid-section-main/)
 
 
 ### Built with
